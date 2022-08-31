@@ -11,6 +11,7 @@
 		6AE45CCB28BEDD10003888D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE45CCA28BEDD10003888D0 /* ContentView.swift */; };
 		6AE45CCD28BEDD10003888D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AE45CCC28BEDD10003888D0 /* Assets.xcassets */; };
 		6AE45CD028BEDD10003888D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AE45CCF28BEDD10003888D0 /* Preview Assets.xcassets */; };
+		6AE45CD928BEE11E003888D0 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE45CD828BEE11E003888D0 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6AE45CCA28BEDD10003888D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6AE45CCC28BEDD10003888D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AE45CCF28BEDD10003888D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6AE45CD828BEE11E003888D0 /* SwiftyJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				6AE45CC828BEDD10003888D0 /* API_JOKE_TESTApp.swift */,
 				6AE45CCA28BEDD10003888D0 /* ContentView.swift */,
 				6AE45CCC28BEDD10003888D0 /* Assets.xcassets */,
+				6AE45CD828BEE11E003888D0 /* SwiftyJSON.swift */,
 				6AE45CCE28BEDD10003888D0 /* Preview Content */,
 			);
 			path = "API JOKE TEST";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AE45CD928BEE11E003888D0 /* SwiftyJSON.swift in Sources */,
 				6AE45CCB28BEDD10003888D0 /* ContentView.swift in Sources */,
 				6AE45CC928BEDD10003888D0 /* API_JOKE_TESTApp.swift in Sources */,
 			);
